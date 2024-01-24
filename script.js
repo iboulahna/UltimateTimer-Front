@@ -1,4 +1,4 @@
-let BACKEND_URL = 'https://2yipr8xhh3.eu-west-3.awsapprunner.com/time' ;
+let BACKEND_URL = 'https://2yipr8xhh3.eu-west-3.awsapprunner.com/' ;
 
 
 if (BACKEND_URL[BACKEND_URL.length - 1] === '/') {
